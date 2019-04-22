@@ -23,7 +23,10 @@
 3. Not being a _Single Dog_
 ## Cap screen 
 ![alt text][cap1]
+
 [cap1]: https://github.com/csci3250-2019/student-1155108923/blob/master/cap%201.JPG
+
 ![alt text][cap2]
+
 [cap2]: https://github.com/csci3250-2019/student-1155108923/blob/master/cap%202.JPG
 # THX for reading this:kissing_heart:
